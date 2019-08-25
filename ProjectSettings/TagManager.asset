@@ -41,3 +41,15 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: ground
+    uniqueID: 2917791543
+    locked: 0
+  - name: Layer1
+    uniqueID: 750040573
+    locked: 0
+  - name: Items
+    uniqueID: 410979061
+    locked: 0
+  - name: heroMale
+    uniqueID: 323496401
+    locked: 0
